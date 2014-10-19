@@ -510,6 +510,9 @@ h3 > .fa {
 /* ---------------------------------------------- /*
  * Profile-contact
 /* ---------------------------------------------- */
+#profile-mail-item {
+	text-align: right;
+}
 
 #profile-contact {
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
@@ -735,6 +738,10 @@ h3 > .fa {
 /* ---------------------------------------------- */
 
 @media (max-width: 767px) {
+
+	#profile-mail-item {
+		text-align: center;
+	}
 
 	.wrapper {
 		text-align: center;
