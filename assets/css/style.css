@@ -68,6 +68,10 @@ h6 {
 	font-size: 13px;
 }
 
+.mail {
+	color: #222;
+}
+
 /* ---------------------------------------------- /*
  * Transition elsements
 /* ---------------------------------------------- */
@@ -510,6 +514,10 @@ h3 > .fa {
 #profile-contact {
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
 	padding: 20px 0;
+}
+
+#profile-items {
+	padding: 0 0 30px 0;
 }
 
 .profile-item i {
