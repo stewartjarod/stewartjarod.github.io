@@ -26,7 +26,7 @@ a {
 }
 
 a:hover {
-	color: #C4C4C4;
+	color: #95A5A6;
 }
 
 /* ---------------------------------------------- /*
@@ -136,7 +136,7 @@ a,
 
 .form-control {
 	background: #FFF;
-	border: 2px solid #C4C4C4;
+	border: 2px solid #95A5A6;
 	height: 58px;
 	font-size: 14px;
 	padding: 15px;
@@ -240,7 +240,7 @@ a,
 /* ---------------------------------------------- */
 
 .skill-bar {
-	background: #C4C4C4;
+	background: #95A5A6;
 	display: table;
 	height: 4px;
 	width: 100%;
@@ -335,7 +335,7 @@ a,
 
 .headline p {
 	font-weight: 700;
-	color: #C4C4C4;
+	color: #95A5A6;
 }
 
 .callout-btn {
@@ -598,7 +598,7 @@ h3 > .fa {
 
 .resume-place > i,
 .resume-place > h4 > i {
-	color: #C4C4C4;
+	color: #95A5A6;
 	font-size: 14px;
 	margin-right: 5px;
 }
