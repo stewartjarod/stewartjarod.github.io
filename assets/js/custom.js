@@ -10,6 +10,7 @@
 	// });
 
 	$(document).ready(function() {
+  		$.adaptiveBackground.run()
 
 		$('body').scrollspy({
 			target: '.navbar-custom',
