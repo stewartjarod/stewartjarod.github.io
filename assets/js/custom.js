@@ -43,7 +43,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/flatirons.jpg', 'assets/images/wood.jpg', 'assets/images/tunnel.jpg']);
+		$('#intro').backstretch(['assets/images/flatirons.jpg', 'assets/images/wood.jpg']);
 
 		/* ---------------------------------------------- /*
  		 * Navbar
