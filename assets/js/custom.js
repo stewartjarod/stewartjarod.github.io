@@ -24,12 +24,12 @@
 		    dark:       "ab-dark"
 		  }
 		};
-		$.adaptiveBackground.run(defaults)
+		$.adaptiveBackground.run(defaults);
 
 		$('body').scrollspy({
 			target: '.navbar-custom',
 			offset: 50
-		})
+		});
 
 		$('a[href*=#]').bind("click", function(e){
 			var anchor = $(this);
@@ -43,7 +43,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/flatirons.jpg', 'assets/images/wood.jpg']);
+		$('#intro').backstretch(['assets/images/flatirons.jpg']);
 
 		/* ---------------------------------------------- /*
  		 * Navbar
