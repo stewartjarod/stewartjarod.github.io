@@ -28,7 +28,7 @@
 
 		$('body').scrollspy({
 			target: '.navbar-custom',
-			offset: 50
+			offset: 40
 		});
 
 		$('a[href*=#]').bind("click", function(e){
