@@ -215,7 +215,11 @@ a,
 	border: 2px solid #222;
 }
 
-.btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
+#reachable .btn-custom-1 {
+	border: 2px solid #fff;
+}
+
+#reachable .btn-custom-1:hover, .btn-custom-1:hover, #reachable .btn-custom-1:focus, .btn-custom-1:focus, #reachable .btn-custom-1:active, .btn-custom-1:active, #reachable .btn-custom-1.active, .btn-custom-1.active {
 	background: #465570;
 	border: 2px solid #465570;
 	color: #FFF;
@@ -225,10 +229,6 @@ a,
 	background: #222;
 	border: 2px solid #222;
 	color: #FFF;
-}
-
-#reachable .btn-custom-1 {
-	border: 2px solid #fff;
 }
 
 /* ---------------------------------------------- /*
