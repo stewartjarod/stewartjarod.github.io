@@ -29,6 +29,16 @@ a:hover {
 	color: #95A5A6;
 }
 
+.overlay-dark {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	background: rgba(32, 69, 111, 0.2);
+}
+
 /* ---------------------------------------------- /*
  * Typography
 /* ---------------------------------------------- */
