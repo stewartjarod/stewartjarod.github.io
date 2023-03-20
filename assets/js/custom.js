@@ -78,17 +78,17 @@
 		 * Count to
 		/* ---------------------------------------------- */
 
-		$('#stats').waypoint(function() {
-			$('.timer').each(function() {
-				counter = $(this).attr('data-count'),
-				$(this).delay(6000).countTo({
-					from: 0,
-					to: counter,
-					speed: 3000,// Stats Counter Speed
-					refreshInterval: 50,
-				});
-			});
-		 }, { offset: '70%', triggerOnce: true });
+		// $('#stats').waypoint(function() {
+		// 	$('.timer').each(function() {
+		// 		counter = $(this).attr('data-count'),
+		// 		$(this).delay(6000).countTo({
+		// 			from: 0,
+		// 			to: counter,
+		// 			speed: 3000,// Stats Counter Speed
+		// 			refreshInterval: 50,
+		// 		});
+		// 	});
+		//  }, { offset: '70%', triggerOnce: true });
 
 		/* ---------------------------------------------- /*
 		 * WOW Animation When You Scroll
