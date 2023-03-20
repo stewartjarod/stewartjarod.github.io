@@ -512,6 +512,7 @@ h3 > .fa {
 	padding: 260px 0 160px 0;
 	text-align: center;
 	color: #FFF;
+	background-image: url("assets/images/flatirons.jpg");
 }
 
 #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
